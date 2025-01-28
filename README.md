@@ -146,6 +146,3 @@ Feedstock Maintainers
 * [@arturdaraujo](https://github.com/arturdaraujo/)
 * [@mfansler](https://github.com/mfansler/)
 
-
-<!-- dummy commit to enable rerendering -->
-
